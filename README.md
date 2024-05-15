@@ -1,5 +1,5 @@
 # 💫 About Me:
-Jr Penetration Tester<br>Cyber security red team member<br>Smart<br>Disciplined<br>Diligent<br>Passionate<br>(So he's a little crazy)
+Jr Penetration Tester<br>Cyber security red team member<br>Smart<br>Disciplined<br>Diligent<br>Passionate<br>(So he's a little crazy👉🏻👈🏻)
 
 
 ## 🌐 Socials:
