@@ -19,5 +19,5 @@ Jr Penetration Tester<br>Cyber security red team member<br>Smart<br>Disciplined<
 [![](https://visitcount.itsvg.in/api?id=tnhn60clk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/tnhn60clk.png)]
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/tnhn60clk.png)
 
