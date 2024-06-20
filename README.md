@@ -1,5 +1,23 @@
 # 💫 About Me:
-Jr Penetration Tester<br>Cyber security red team member<br>Smart<br>Disciplined<br>Diligent<br>Passionate<br>(So he's a little crazy👉🏻👈🏻)
+Tunahan Çelik | Siber Güvenlik Uzmanı | Pentester | Red Team Üyesi
+
+Siber güvenlik alanında tutkulu ve özverili bir profesyonelim. Henüz 10. sınıf öğrencisi olmama rağmen, 5 yıldır Red Team ve pentesting alanlarında aktif olarak çalışıyorum. Çeşitli sertifikalar ve yarışmalarda kazandığım başarılarla kendimi kanıtladım. İnsan ilişkilerinde başarılı, disiplinli, çalışkan ve çok yönlü düşünme yeteneğine sahip biriyim.
+
+Niteliklerim:
+
+	•	Pentester ve Red Team Üyeliği: Farklı siber güvenlik testleri yaparak zayıf noktaları tespit ediyor ve güvenlik çözümleri üretiyorum.
+	•	Güvenlik Araçları Geliştirme: Kendi güvenlik araçlarımı yazma konusunda deneyimliyim.
+	•	CTF Yarışmaları: Sürekli olarak CTF yarışmalarına katılarak kendimi geliştiriyorum ve siber güvenlik topluluğunda aktif bir rol üstleniyorum.
+	•	Sertifikalar ve Başarılar: Aldığım sertifikalar ve yarışmalarda elde ettiğim derecelerle uzmanlığımı pekiştiriyorum.
+	•	Liderlik ve İletişim: Sosyal alanda başarılıyım, insan ilişkilerinde iyiyimdir ve zorlu anları kontrol edebilme, liderlik yapabilme yeteneğine sahibim.
+
+Kariyer Hedeflerim:
+
+	•	İlk 3-5 yıl içinde Apple, Tesla, Amazon, Meta gibi üst düzey şirketlerde çalışarak deneyim kazanmak.
+	•	Ardından kendi şirketimi kurarak siber güvenlik alanında yenilikçi çözümler sunmak ve bir girişimci hacker kimliğine bürünmek.
+
+Disiplinli, obsesif ve çok yönlü düşünme yapım sayesinde karşılaştığım sorunlardan basitçe sıyrılabilir ve her durumda etkin çözümler üretebilirim. Siber güvenlik alanında güçlü ve etkili adımlar atarak hem kendimi hem de çalıştığım kurumları ileriye taşımak için çalışıyorum.
+
 
 
 ## 🌐 Socials:
