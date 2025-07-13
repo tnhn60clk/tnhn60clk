@@ -1,7 +1,7 @@
 # 🫡 About Me:
 Tunahan Çelik | Siber Güvenlik Uzmanı | Pentester | Red Team Üyesi
 
-Siber güvenlik alanında tutkulu ve özverili bir profesyonelim. Henüz 10. sınıf öğrencisi olmama rağmen, 5 yıldır Red Team ve pentesting alanlarında aktif olarak çalışıyorum. Çeşitli sertifikalar ve yarışmalarda kazandığım başarılarla kendimi kanıtladım. İnsan ilişkilerinde başarılı, disiplinli, çalışkan ve çok yönlü düşünme yeteneğine sahip biriyim.
+Siber güvenlik alanında tutkulu ve özverili bir profesyonelim. Henüz 11. sınıf öğrencisi olmama rağmen, 5 yıldır Red Team ve pentesting alanlarında aktif olarak çalışıyorum. Çeşitli sertifikalar ve yarışmalarda kazandığım başarılarla kendimi kanıtladım. İnsan ilişkilerinde başarılı, disiplinli, çalışkan ve çok yönlü düşünme yeteneğine sahip biriyim.
 
 Niteliklerim:
 
